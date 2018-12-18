@@ -4,4 +4,4 @@
 
 (discord) discordBot - A general discord bot for a server. Specific functions of the bot may be described below.
 
-(discord) logposting - The discord bot will run continuously and on new messages will check the start of the post for "!logpost." Upon seeing this phrase, it will superimpose text on a picture of a log (logpostingtemplate.png) and upload that picture. Requires discordBot.py
+(discord) logposting - The discord bot will run continuously and on new messages will check the start of the post for "!logpost." Upon seeing this phrase, it will superimpose text on a picture of a log (logpostingtemplate.png) and upload that picture. Requires discordBot.py.
